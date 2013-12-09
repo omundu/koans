@@ -1,6 +1,8 @@
 = Neo Ruby Koans
 
 === Completed for ruby 1.9.3
+=== Completed for ruby 2.0.0
+=== Completed for jruby 1.7.4
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
 The goal is to learn the Ruby language, syntax, structure, and some common
